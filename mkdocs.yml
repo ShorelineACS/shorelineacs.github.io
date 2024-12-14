@@ -1,0 +1,72 @@
+site_name: City of Shoreline Auxiliary Communications Service
+site_author: Shoreline ACS
+site_description: "Shoreline ACS: A team of volunteer amateur radio operators in Shoreline, WA. "
+copyright: © Creative Commons Attribution-ShareAlike 4.0 International License
+site_url: https://shorelineacs.org
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Other: other.md
+
+plugins:
+  - search
+  - social
+  - table-reader
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: date
+  - git-committers:
+      repository: shorelineacs/shorelineacs.github.io
+      branch: main
+
+markdown_extensions:
+  - toc
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+theme:
+  name: material
+  palette:
+    primary: black
+    scheme: default 
+
+  favicon: static/favicon.png
+  logo: static/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.prefetch
+    - toc.integrate
+    - toc.follow
+    - content.action.edit
+    - content.code.copy
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/shorelineacs
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/ShorelineACS
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/ZhzPJhbuTN
+    - icon: fontawesome/brands/github 
+      link: https://github.com/ShorelineACS
