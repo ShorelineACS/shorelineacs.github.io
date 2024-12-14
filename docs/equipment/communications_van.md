@@ -51,7 +51,7 @@ Radios, top to bottom, left to right:
 
 | Item | Description |
 | --- | --- |
-| 2x Dell Latitude 7940 Laptop | Dedicted HF Winlink/VARA and logging |
+| 2x Dell Latitude 7940 Laptop | Dedicated HF Winlink/VARA and logging |
 | Panasonic Toughbook ? | General Purpose |
 | 2x Rainier R2200i 2KW Gas Generators | Power [![PDF](/static/PDF_file_icon.svg){ width=25px }](/media/r2200i_manual_EN_web_rev2.pdf) |
 | ? | Laser Printer |
