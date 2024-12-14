@@ -30,6 +30,4 @@ Shoreline ACS has two primary repeater sites in addition to the mobile assets in
 - **HAAT**: 50ft
 - **Frequency**: 224.020- (103.5 PL)
 
-[Click to Listen](http://homelab.adammelton.com:8073/#freq=224020000,mod=nfm,sql=-150)
-
 Same coverage as Secondary UHF Repeater above. 
