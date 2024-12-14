@@ -1,7 +1,7 @@
 # Amateur Radio Team
 
 [![Shoreline ACS Logo](/static/ShorelineACS_150w.png){ align=left }](www.shorelineacs.org)
-Shoreline Auxiliary Communications Service (Shoreline ACS) team was formed in 1995 and has maintained an active roster of volunteer licensed amateur (ham) radio operators since. We support the [City of Shoreline(http://www.shorelinewa.gov/services/emergency-services/emergency-management)]'s Emergency Operations Center (EOC), Shoreilne Police Department, and [Shoreline Fire Department](http://www.shorelinefire.com/). We regularly meet and train to ensure we are ready to provide emergency communications when needed. 
+Shoreline Auxiliary Communications Service (Shoreline ACS) team was formed in 1995 and has maintained an active roster of volunteer licensed amateur (ham) radio operators since. We support the [City of Shoreline](http://www.shorelinewa.gov/services/emergency-services/emergency-management)]'s Emergency Operations Center (EOC), Shoreilne Police Department, and [Shoreline Fire Department](http://www.shorelinefire.com/). We regularly meet and train to ensure we are ready to provide emergency communications when needed. 
 <br/>
 <br/>
 
