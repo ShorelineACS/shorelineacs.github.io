@@ -3,14 +3,14 @@
 The Shoreline Auxiliary Communications Service team was formed in 1995 to support Fire District 4 and the Shoreline Fire Department. We have since grown in size and in responsibilities: We now support the City of Shoreline’s Emergency Operations Center and the Shoreline Police Department, in addition to the Fire Department. Our team, consisting of about 35 volunteer amateur radio operators, trains to provide emergency communications in the event of disasters, since normal communication methods can quickly become overloaded during such an event, if they survive at all. [W7AUX QRZ Page](https://www.qrz.com/db/W7AUX)
 
 
-## Leadership
+## Shoreline ACS Leadership
 
-| Role | Name | Photo |
-| ---: | :--- | --- |
-| President | Alan Coburn (KE7IBO) | ![Alan Coburn](/media/Alan_Coburn.jpg){ width=200px;height=200px  } |
-| Vice President | Pat Ducey (KF7NFE) | ![Pat Ducey](/media/Pat_Ducey.jpg){ width=200px;height=200px  } |
-| Treasurer | Lee Hopf (K7LFP) | ![Lee Hopf](/media/Lee_Hopf.jpg){ width=200px;height=200px  } |
-| Secretary | John Slomnicki (N7TPM) | ![John Slmonicki](/media/John_Slomnicki.jpg){ width=200px;height=200px  } |
+| Role | Name |
+| ---: | :--- |
+| President | Alan Coburn (KE7IBO) |
+| Vice President | Pat Ducey (KF7NFE) |
+| Treasurer | Lee Hopf (K7LFP) |
+| Secretary | John Slomnicki (N7TPM) |
 
 
 ## Donate

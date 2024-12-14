@@ -10,6 +10,7 @@ nav:
   - Equipment:
     - Overview: equipment/index.md
     - Comms Van: equipment/communications_van.md
+  - Dashboard: dashboard.md
   - Other: other.md
 
 plugins:
