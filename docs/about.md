@@ -7,17 +7,19 @@ The Shoreline Auxiliary Communications Service team was formed in 1995 to suppor
 
 | Role | Name | Photo |
 | ---: | :--- | --- |
-| President | Alan Coburn | ![Alan Coburn](/media/Alan_Coburn.jpg){ width=200px;height=200px  } |
-| Vice President | Pat Ducey | ![Pat Ducey](/media/Pat_Ducey.jpg){ width=200px;height=200px  } |
-| Treasurer | Lee Hopf | ![Lee Hopf](/media/Lee_Hopf.jpg){ width=200px;height=200px  } |
-| Secretary | John Slomnicki | ![John Slmonicki](/media/John_Slomnicki.jpg){ width=200px;height=200px  } |
+| President | Alan Coburn (KE7IBO) | ![Alan Coburn](/media/Alan_Coburn.jpg){ width=200px;height=200px  } |
+| Vice President | Pat Ducey (KF7NFE) | ![Pat Ducey](/media/Pat_Ducey.jpg){ width=200px;height=200px  } |
+| Treasurer | Lee Hopf (K7LFP) | ![Lee Hopf](/media/Lee_Hopf.jpg){ width=200px;height=200px  } |
+| Secretary | John Slomnicki (N7TPM) | ![John Slmonicki](/media/John_Slomnicki.jpg){ width=200px;height=200px  } |
 
 
 ## Donate
 ![Donate QR](static/ShorelineACS_paypal_qrcode.png){ align=left }
 </br>
 </br>
-You can donate to our non-profit organization securely using our [PayPal link](https://www.paypal.com/US/fundraiser/charity/1886604). Donations are greatly appreciated and we can provide you with a tax form upon request.
+You can donate to our non-profit organization securely using our [PayPal link](https://www.paypal.com/US/fundraiser/charity/1886604).
+
+Donations are greatly appreciated and we can provide you with a tax form upon request.
 </br>
 </br>
 </br>

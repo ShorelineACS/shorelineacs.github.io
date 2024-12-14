@@ -2,13 +2,18 @@
 status: new
 ---
 
-# Other Resources
-
-
+# Shoreline Resources
 - [SACS Be Prepared Check List](https://tinyurl.com/2nuuzevc)
 - [City of Shoreline Emergency Management](http://www.shorelinewa.gov/services/emergency-services/emergency-management)
 - [Shoreline Fire](http://www.shorelinefire.com/)
 - [Shoreline CERT](http://www.shorelinewa.gov/services/emergency-services/emergency-management/get-involved/cert-community-emergency-response-team)
+
+# Nearby ACS Groups
+- [Seattle ACS](https://www.seattleacs.org/)
+- [Snohomish ACS](https://www.wa7dem.info/)
+
+# Other Resources
+
 - [NEMCO/Northshore CERT](https://www.northshoreemc.com/nemco-cert)
 - [Northshore Emergency Mgt – NEMCo](https://www.northshoreemc.com/)
 - [ARES/RACES of King County](http://aresofkingcounty.org/)
@@ -25,3 +30,4 @@ status: new
 - [Communications Academy Training Archive](https://archive.org/details/comm-academy)
 - [Partners in Emergency Preparedness](https://piepc.org/)
 - [Emergency Management Group – Washington](https://emgwa.org/)
+- [Cascadio Radio](https://www.cascadiaradio.org/)
