@@ -7,6 +7,9 @@ site_url: https://shorelineacs.org
 nav:
   - Home: index.md
   - About: about.md
+  - Equipment:
+    - Overview: equipment/index.md
+    - Comms Van: equipment/communications_van.md
   - Other: other.md
 
 plugins:
