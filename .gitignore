@@ -2,4 +2,4 @@
 .cache
 .venv
 .vscode
-my_env
+my_env/

@@ -29,5 +29,5 @@ Please contact Victoria at the  City of Shoreline Emergency Management Office to
 
 ---
 
-![City of Shoreline](/media/CityOfShoreline.jpg){ width=300px }
-![Shoreline Fire Department](/media/Shoreline_FD.png){ width=300px }
+![City of Shoreline](/media/CityOfShoreline.jpg){ width=300px; align=left }
+![Shoreline Fire Department](/media/Shoreline_FD.png){ width=300pxl; align=right }
