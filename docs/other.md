@@ -8,9 +8,13 @@ status: new
 - [Shoreline Fire](http://www.shorelinefire.com/)
 - [Shoreline CERT](http://www.shorelinewa.gov/services/emergency-services/emergency-management/get-involved/cert-community-emergency-response-team)
 
+---
+
 # Nearby ACS Groups
 - [Seattle ACS](https://www.seattleacs.org/)
-- [Snohomish ACS](https://www.wa7dem.info/)
+- [Snohomish County ACS/ ARES](https://www.wa7dem.info/)
+
+---
 
 # Other Resources
 
@@ -20,7 +24,6 @@ status: new
 - [King County Office of Emergency Management](http://www.kingcounty.gov/safety/prepare.aspx)
 - [Puget Sound Emergency Radio Network (PSERN)](https://psern.org/)
 - [Washington State ARES/RACES](http://www.wastateares.org/)
-- [Snohomish County ACS / ARES](http://www.wa7dem.info/about-us)
 - [Snohomish County Emergency Radio System (SERS)](http://sers800.org/)
 - [Mike & Key Club Amateur Radio License Testing](http://www.mikeandkey.org/vesessions.php)
 - [SnoCoHams.net  Amateur Radio Classes and License Testing](http://snocohams.net/classes.php)
