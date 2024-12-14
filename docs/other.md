@@ -2,7 +2,7 @@
 status: new
 ---
 
-# Shoreline Resources
+## Shoreline Resources
 - [SACS Be Prepared Check List](https://tinyurl.com/2nuuzevc)
 - [City of Shoreline Emergency Management](http://www.shorelinewa.gov/services/emergency-services/emergency-management)
 - [Shoreline Fire](http://www.shorelinefire.com/)
@@ -10,13 +10,13 @@ status: new
 
 ---
 
-# Nearby ACS Groups
+## Nearby ACS Groups
 - [Seattle ACS](https://www.seattleacs.org/)
 - [Snohomish County ACS/ ARES](https://www.wa7dem.info/)
 
 ---
 
-# Other Resources
+## Other Resources
 
 - [NEMCO/Northshore CERT](https://www.northshoreemc.com/nemco-cert)
 - [Northshore Emergency Mgt – NEMCo](https://www.northshoreemc.com/)
