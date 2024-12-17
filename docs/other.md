@@ -1,7 +1,3 @@
----
-status: new
----
-
 ## Shoreline Resources
 - [SACS Be Prepared Check List](https://tinyurl.com/2nuuzevc)
 - [City of Shoreline Emergency Management](http://www.shorelinewa.gov/services/emergency-services/emergency-management)

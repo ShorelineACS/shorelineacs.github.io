@@ -9,7 +9,7 @@ Visit our [About](/about/) page to learn more about us and find ways to [securel
 
 ---
 
-![Team Picture](media/Shoreline_ACS_Team1.jpg)
+![Team Picture](media/Shorelin_ACS_Event1.jpg)
 
 ## Monthly Meetings:
 Visitors are always welcome at our monthly meeting, which takes place from 1000 – 1200 on the second Saturday of each month at the Shoreline Fire Department Headquarters Station, 17525 Aurora Ave N. (To avoid conflict with the Mike & Key Puyallup swap meet, our March meeting is usually on the third Saturday.)
