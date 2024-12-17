@@ -28,7 +28,7 @@ Donations are greatly appreciated and we can provide you with a tax form upon re
 
 ## Contact Us:
 
-In addition to following us on [Facebook](https://www.facebook.com/shorelineacs), [Discord](https://discord.gg/ZhzPJhbuTN), and [Twitter](https://twitter.com/ShorelineACS) you may reach us via email at ShorelineACS@gmail.com
+In addition to following us on [Facebook](https://www.facebook.com/shorelineacs), [Discord](https://discord.gg/ZhzPJhbuTN), [Bluesky](https://bsky.app/profile/shorelineacs.bsky.social) and [Twitter](https://twitter.com/ShorelineACS) you may reach us via email at ShorelineACS@gmail.com
 
 **Licensed Ham operators can try:**
 
