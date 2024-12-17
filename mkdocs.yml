@@ -66,11 +66,13 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/facebook 
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/shorelineacs
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/ShorelineACS
-    - icon: fontawesome/brands/discord 
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/shorelineacs.bsky.social
+    - icon: fontawesome/brands/discord
       link: https://discord.gg/ZhzPJhbuTN
-    - icon: fontawesome/brands/github 
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ShorelineACS
+    - icon: fontawesome/brands/github
       link: https://github.com/ShorelineACS/shorelineacs.github.io
