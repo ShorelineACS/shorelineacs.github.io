@@ -12,7 +12,7 @@ Note: This page does not refresh automatically. The most recent data is retrieve
 | ![I5 Metro Base](https://images.wsdot.wa.gov/nw/005vc17552.jpg) | ![I5 155th](https://images.wsdot.wa.gov/nw/005vc17510.jpg) |
 
 ## Local Fire/EMS (NORCOM/SNOCOM)
-Courtesey [informadev.com](https://informadev.com).
+Courtesy [informadev.com](https://informadev.com).
 
 <iframe src="https://informadev.com/fire/index.php?SnoCo=True" title="NORCOM/SNOCOM" width="100%" height="550" style="border:1px solid black;"></iframe> 
 
