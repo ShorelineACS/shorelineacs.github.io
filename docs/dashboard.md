@@ -11,11 +11,6 @@ Note: This page does not refresh automatically. The most recent data is retrieve
 | ![I5 195th](https://images.wsdot.wa.gov/nw/005vc17722.jpg) | ![I5 175th](https://images.wsdot.wa.gov/nw/005vc17627.jpg) |
 | ![I5 Metro Base](https://images.wsdot.wa.gov/nw/005vc17552.jpg) | ![I5 155th](https://images.wsdot.wa.gov/nw/005vc17510.jpg) |
 
-## Local Fire/EMS (NORCOM/SNOCOM)
-Courtesy [informadev.com](https://informadev.com).
-
-<iframe src="https://informadev.com/fire/index.php?SnoCo=True" title="NORCOM/SNOCOM" width="100%" height="550" style="border:1px solid black;"></iframe> 
-
 ## Weather
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/47d76n122d35/shoreline/?unit=us" data-label_1="SHORELINE" data-label_2="WEATHER" data-theme="original" >SHORELINE WEATHER</a>
