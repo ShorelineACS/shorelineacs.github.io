@@ -1,8 +1,4 @@
 # About Us
-
-The Shoreline Auxiliary Communications Service team was formed in 1995 to support Fire District 4 and the Shoreline Fire Department. We have since grown in size and in responsibilities: We now support the City of Shoreline’s Emergency Operations Center and the Shoreline Police Department, in addition to the Fire Department. Our team, consisting of about 35 volunteer amateur radio operators, trains to provide emergency communications in the event of disasters, since normal communication methods can quickly become overloaded during such an event, if they survive at all. [W7AUX QRZ Page](https://www.qrz.com/db/W7AUX)
-
-
 ## Shoreline ACS Leadership
 
 | Role | Name |
@@ -12,6 +8,10 @@ The Shoreline Auxiliary Communications Service team was formed in 1995 to suppor
 | Treasurer | Lee Hopf (K7LFP) |
 | Secretary | John Slomnicki (N7TPM) |
 
+## Membership Requirements
+Training, licensing, and registration: Technician class or higher amateur radio operator’s license, FEMA [ICS-100](https://www.google.com/url?q=https%3A%2F%2Ftraining.fema.gov%2Fis%2Fcourseoverview.aspx%3Fcode%3DIS-100.b&sa=D&sntz=1&usg=AOvVaw3xaUrjwsJGxBEpFhSQnYo_) and NIMS [IS-700](https://www.google.com/url?q=https%3A%2F%2Ftraining.fema.gov%2Fis%2Fcourseoverview.aspx%3Fcode%3DIS-700.a&sa=D&sntz=1&usg=AOvVaw035knpZ5rEpGTTpSrgQ-7w) courses, registered Emergency Worker with the City of Shoreline and State of Washington, and criminal background checks as required by Shoreline Fire and Police Departments. The [ICS-200](https://www.google.com/url?q=https%3A%2F%2Ftraining.fema.gov%2Fis%2Fcourseoverview.aspx%3Fcode%3DIS-200.b&sa=D&sntz=1&usg=AOvVaw0LfUU3t1t82bdVomy-k7Vk) course is recommended.
+
+Please contact Victoria at the  City of Shoreline Emergency Management Office to get an application and other necessary forms.  Victoria can be reached either by email at valie@shorelinewa.gov or by phone at 206 801-2254
 
 ## Donate
 ![Donate QR](static/ShorelineACS_paypal_qrcode.png){ align=left }
@@ -26,11 +26,13 @@ Donations are greatly appreciated and we can provide you with a tax form upon re
 </br>
 </br>
 
-## Contact Us:
+## Contact Us
 
-In addition to following us on [Facebook](https://www.facebook.com/shorelineacs), [Discord](https://discord.gg/ZhzPJhbuTN), [Bluesky](https://bsky.app/profile/shorelineacs.bsky.social) and [Twitter](https://twitter.com/ShorelineACS) you may reach us via email at ShorelineACS@gmail.com
+In addition to following us on [Facebook](https://www.facebook.com/shorelineacs), [Discord](https://discord.gg/ZhzPJhbuTN), [Bluesky](https://bsky.app/profile/shorelineacs.bsky.social), [Twitter](https://twitter.com/ShorelineACS), and [QRZ](https://www.qrz.com/db/W7AUX) you may reach us via email at ShorelineACS@gmail.com
 
-**Licensed Ham operators can try:**
+### Contact Us On The Air
+
+Our Callsign is [W7AUX](https://www.qrz.com/db/W7AUX).
 
 | Description | Connection Information |
 | --: | :--- |
