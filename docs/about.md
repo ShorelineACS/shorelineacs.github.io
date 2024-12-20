@@ -30,6 +30,10 @@ Donations are greatly appreciated and we can provide you with a tax form upon re
 
 In addition to following us on [Facebook](https://www.facebook.com/shorelineacs), [Discord](https://discord.gg/ZhzPJhbuTN), [Bluesky](https://bsky.app/profile/shorelineacs.bsky.social), [Twitter](https://twitter.com/ShorelineACS), and [QRZ](https://www.qrz.com/db/W7AUX) you may reach us via email at ShorelineACS@gmail.com
 
+### Discord
+[Join our Discord Server](https://discord.gg/ZhzPJhbuTN)
+<iframe src="https://e.widgetbot.io/channels/1316600860058583111/1316600860058583114" allow="clipboard-write; fullscreen" height="600" width="800"></iframe>
+
 ### Contact Us On The Air
 
 Our Callsign is [W7AUX](https://www.qrz.com/db/W7AUX).
