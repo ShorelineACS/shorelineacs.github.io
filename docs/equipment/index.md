@@ -3,7 +3,7 @@ Shoreline ACS has two primary repeater sites in addition to the mobile assets in
 
 ## Primary UHF Repeater
 
-[Click to Listen (Experimental)](http://homelab.adammelton.com:8073/#freq=442825000,mod=nfm,sql=-150)
+<!--[Click to Listen (Experimental)](http://homelab.adammelton.com:8073/#freq=442825000,mod=nfm,sql=-150)-->
 
 | Frequency | Offset | PL/CTCSS | [HAAT](https://en.wikipedia.org/wiki/Height_above_average_terrain) | Location |
 | --: | --- | --- | --- | :-: |
@@ -16,7 +16,7 @@ Shoreline ACS has two primary repeater sites in addition to the mobile assets in
 
 ## Secondary UHF Repeater
 
-[Click to Listen (Experimental)](http://homelab.adammelton.com:8073/#freq=440300000,mod=nfm,sql=-150)
+<!--[Click to Listen (Experimental)](http://homelab.adammelton.com:8073/#freq=440300000,mod=nfm,sql=-150)-->
 
 | Frequency | Offset | PL/CTCSS | [HAAT](https://en.wikipedia.org/wiki/Height_above_average_terrain) | Location |
 | --: | --- | --- | --- | :-: |
