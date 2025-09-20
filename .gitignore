@@ -3,3 +3,5 @@
 .venv
 .vscode
 my_env/
+/.vs
+/.gitignore
