@@ -49,7 +49,6 @@ Donate to our non-profit organization securely using our [GoFundMe link](https:/
 </br>
 </br>
 
-
 <b>Donations are greatly appreciated and we can provide you with a tax form upon request.</b>
 
 </br>
