@@ -14,16 +14,44 @@ Training, licensing, and registration: Technician class or higher amateur radio 
 Please contact Victoria at the  City of Shoreline Emergency Management Office to get an application and other necessary forms.  Victoria can be reached either by email at valie@shorelinewa.gov or by phone at 206 801-2254
 
 ## Donate
-![Donate QR](static/ShorelineACS_paypal_qrcode.png){ align=left }
-</br>
-</br>
-You can donate to our non-profit organization securely using our [PayPal link](https://www.paypal.com/US/fundraiser/charity/1886604).
 
-Donations are greatly appreciated and we can provide you with a tax form upon request.
+### PayPal
+
+![Donate QR](static/ShorelineACS_paypal_qrcode.png){ width=300px; align=left }
+
+Donate to our non-profit organization securely using our [PayPal link](https://www.paypal.com/US/fundraiser/charity/1886604)
 </br>
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+### GoFundMe
+
+![GoFundMe QR](static/acs_gofundme.jpg){ width=300px; align=left }
+
+Donate to our non-profit organization securely using our [GoFundMe link](https://www.gofundme.com/f/support-shoreline-acs-make-a-difference-today).
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+<b>Donations are greatly appreciated and we can provide you with a tax form upon request.</b>
+
 </br>
 
 ## Contact Us
@@ -31,7 +59,9 @@ Donations are greatly appreciated and we can provide you with a tax form upon re
 In addition to following us on [Facebook](https://www.facebook.com/shorelineacs), [Discord](https://discord.gg/ZhzPJhbuTN), [Bluesky](https://bsky.app/profile/shorelineacs.org), [Twitter](https://twitter.com/ShorelineACS), and [QRZ](https://www.qrz.com/db/W7AUX) you may reach us via email at ShorelineACS@gmail.com
 
 ### Discord
+
 [Join our Discord Server](https://discord.gg/ZhzPJhbuTN)
+
 <iframe src="https://e.widgetbot.io/channels/1316600860058583111/1316600860058583114" allow="clipboard-write; fullscreen" height="650" width="100%"></iframe>
 
 ### Contact Us On The Air
