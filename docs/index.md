@@ -1,6 +1,6 @@
 # Amateur Radio Team
 
-[![Shoreline ACS Logo](/static/ShorelineACS_150w.png){ align=left }](/)
+[![Shoreline ACS Logo](static/ShorelineACS_150w.png){ align=left }](/)
 The Shoreline Auxiliary Communications Service team was formed in 1995 to support Fire District 4 and the [Shoreline Fire Department](http://www.shorelinefire.com/). We have since grown in size and in responsibilities: We now support the City of Shoreline’s [Emergency Operations Center](http://www.shorelinewa.gov/services/emergency-services/emergency-management) and the [Shoreline Police Department](https://www.shorelinewa.gov/government/departments/police-department/contact-shoreline-police), in addition to the Fire Department. Our team, consisting of about 35 volunteer amateur radio operators, trains to provide emergency communications in the event of disasters, since normal communication methods can quickly become overloaded during such an event, if they survive at all. We meet and train to ensure we are ready to provide emergency communications when needed. Visit our [About](/about/) page to learn more about us and find ways to [securely donate](/about/#donate) which helps us greatly with our cause.
 <br/>
 <br/>
@@ -22,5 +22,5 @@ Shoreline ACS attends most Shoreline Events. Stop by, we would love to say hello
 
 ---
 
-[![City of Shoreline](/media/CityOfShoreline.jpg){ width=300px; align=left }](http://www.shorelinewa.gov/services/emergency-services/emergency-management)
-[![Shoreline Fire Department](/media/Shoreline_FD.png){ width=300pxl; align=right }](http://www.shorelinefire.com/)
+[![City of Shoreline](media/CityOfShoreline.jpg){ width=300px; align=left }](http://www.shorelinewa.gov/services/emergency-services/emergency-management)
+[![Shoreline Fire Department](media/Shoreline_FD.png){ width=300pxl; align=right }](http://www.shorelinefire.com/)
