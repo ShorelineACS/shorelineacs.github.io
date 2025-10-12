@@ -11,7 +11,8 @@
 ## Membership Requirements
 Training, licensing, and registration: Technician class or higher amateur radio operator’s license, FEMA [ICS-100](https://www.google.com/url?q=https%3A%2F%2Ftraining.fema.gov%2Fis%2Fcourseoverview.aspx%3Fcode%3DIS-100.b&sa=D&sntz=1&usg=AOvVaw3xaUrjwsJGxBEpFhSQnYo_) and NIMS [IS-700](https://www.google.com/url?q=https%3A%2F%2Ftraining.fema.gov%2Fis%2Fcourseoverview.aspx%3Fcode%3DIS-700.a&sa=D&sntz=1&usg=AOvVaw035knpZ5rEpGTTpSrgQ-7w) courses, registered Emergency Worker with the City of Shoreline and State of Washington, and criminal background checks as required by Shoreline Fire and Police Departments. The [ICS-200](https://www.google.com/url?q=https%3A%2F%2Ftraining.fema.gov%2Fis%2Fcourseoverview.aspx%3Fcode%3DIS-200.b&sa=D&sntz=1&usg=AOvVaw0LfUU3t1t82bdVomy-k7Vk) course is recommended.
 
-Please contact Victoria at the  City of Shoreline Emergency Management Office to get an application and other necessary forms.  Victoria can be reached either by email at valie@shorelinewa.gov or by phone at 206 801-2254
+### How to Join
+Please contact John Slomnicki at shorelineacs@gmail.com or stop by a monthly meeting from 1000 – 1200 on the second Saturday of each month at the Shoreline Fire Department Headquarters Station, 17525 Aurora Ave N.
 
 ## Donate
 
