@@ -1,11 +1,9 @@
 ﻿## Member Resources
-[Shoreline ACS Shared Docs Folder](https://drive.google.com/drive/folders/1igY6nF3J3LPOLGFhMyoQPbppU5TxVTbl?usp=drive_link) Contact Chris or John for access
+[Shoreline ACS Members-only Page](https://sites.google.com/w7aux.org/shorelineacsmembers) Contact Chris or John for access
 
 ## Weekly On-air Net Preamble Script
 
 [Link to Roll Call](https://drive.google.com/file/d/1XTu_DTiD2vtK1LRoCmsIxb1sCUx_WFe2/view?usp=sharing)
-
-[Other Shared Documents](https://drive.google.com/drive/folders/1oBbJFeaEMabs4wk1yeiUwDgZXqJaVuQA?usp=sharing)
 
 <blockquote>
 [ Have a clock handy – you will need to give the closing time at the end of the net. ]<br/>
