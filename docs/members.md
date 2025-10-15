@@ -1,4 +1,4 @@
-## Member Resources
+ï»¿## Member Resources
 - [Shoreline ACS Shared Docs Folder]https://drive.google.com/drive/folders/1igY6nF3J3LPOLGFhMyoQPbppU5TxVTbl?usp=drive_link) 
 - Contact Chris or John S for access
 
@@ -9,11 +9,11 @@
 [Other Shared Documents](https://drive.google.com/drive/folders/1oBbJFeaEMabs4wk1yeiUwDgZXqJaVuQA?usp=sharing)
 
 <blockquote>
-[ Have a clock handy – you will need to give the closing time at the end of the net. ]<br/>
+[ Have a clock handy â€“ you will need to give the closing time at the end of the net. ]<br/>
 <br/>
 Good Evening.
 <br/>
-It’s Monday night and it’s 1930 hours.<br/>
+Itâ€™s Monday night and itâ€™s 1930 hours.<br/>
 <br/>
 This is Net Control Station [MY CALL] opening the Shoreline Auxiliary Communications service net. This net meets every Monday at 1930 hours local time on the Shoreline Repeater on 442.825 MHz, requiring a sub-audible tone of 103.5Hz. In the event of repeater failure, please switch to on 440.300 MHz for instructions. All licensed amateur stations are invited to check in. The purpose of this net is to provide information and coordination concerning the activities of the Shoreline Auxiliary Communications Service. All stations please standby to check in, when called.<br/>
 <br/>
