@@ -1,5 +1,6 @@
 ## Member Resources
-- [Shoreline ACS Shared Docs Folder]https://drive.google.com/drive/folders/1igY6nF3J3LPOLGFhMyoQPbppU5TxVTbl?usp=drive_link) - Contact Chris or John S for access
+- [Shoreline ACS Shared Docs Folder]https://drive.google.com/drive/folders/1igY6nF3J3LPOLGFhMyoQPbppU5TxVTbl?usp=drive_link) 
+- Contact Chris or John S for access
 
 ## Weekly On-air Net Preamble Script
 
@@ -34,7 +35,7 @@ Are there any additional check-ins or other business for the net?<br/>
 <br/>
 Good evening all, and thank you for checking in tonight.<br/>
 <br/>
-This is Net Control Station [MY CALL] closing the Shoreline Auxiliary Communications Service Net at [ current time – probably 19-something-hours ].<br/>
+This is Net Control Station [MY CALL] closing the Shoreline Auxiliary Communications Service Net at [ current time - probably 19-something-hours ].<br/>
 <br/>
 The frequency is now clear and returned to normal operation.<br/>
 <br/>
