@@ -1,6 +1,5 @@
 ﻿## Member Resources
-- [Shoreline ACS Shared Docs Folder]https://drive.google.com/drive/folders/1igY6nF3J3LPOLGFhMyoQPbppU5TxVTbl?usp=drive_link) 
-- Contact Chris or John S for access
+[Shoreline ACS Shared Docs Folder](https://drive.google.com/drive/folders/1igY6nF3J3LPOLGFhMyoQPbppU5TxVTbl?usp=drive_link) Contact Chris or John for access
 
 ## Weekly On-air Net Preamble Script
 
