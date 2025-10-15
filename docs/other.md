@@ -13,7 +13,6 @@
 ---
 
 ## Other Resources
-
 - [NEMCO/Northshore CERT](https://www.northshoreemc.com/nemco-cert)
 - [Northshore Emergency Mgt – NEMCo](https://www.northshoreemc.com/)
 - [ARES/RACES of King County](http://aresofkingcounty.org/)
