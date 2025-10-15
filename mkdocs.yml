@@ -13,6 +13,7 @@ nav:
     - Comms Van: equipment/communications_van.md
   - Dashboard: dashboard.md
   - Other: other.md
+  - Members: members.md
 
 plugins:
   - search
