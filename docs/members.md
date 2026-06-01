@@ -1,5 +1,7 @@
 ﻿## Member Resources
-[Shoreline ACS Members-only Page](https://sites.google.com/w7aux.org/shorelineacsmembers/home) Contact Chris or John for access
+[Shoreline ACS Members-only Page](https://sites.google.com/w7aux.org/shorelineacsmembers/home)
+<br />
+Contact Chris or John for access
 
 ## Weekly On-air Net Preamble Script
 
