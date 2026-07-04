@@ -17,7 +17,7 @@ The Commvan is equipped to operate on the HF, VHF and UHF amateur bands (includi
 
 ## COM 61 Radio Room
 
-![COM61 Radios](/media/COM61_Radios.jpg)
+![COM61 Radios](/media/commvan_radios.png)
 
 Radios, top to bottom, left to right:
 
