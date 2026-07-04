@@ -32,7 +32,7 @@ Radios, top to bottom, left to right:
 | Middle | Kenwood TK-690 | 2/440 | [CEMNET](https://mil.wa.gov/emergency-management-radio-systems-comprehensive-emergency-management-network-cemnet) | [![PDF](/static/PDF_file_icon.svg){ width=25px }](/media/Kenwood-TK-690-790-890-instruction-manual.pdf) |
 | Bottom | ICOM 2720 | 2M/440 | - | [![PDF](/static/PDF_file_icon.svg){ width=25px }](/media/ICOM--IC-2720H-user-manual.pdf) |
 | Bottom | Anytone ? | ? | DMR | - |
-| Bottom | Radioddity ? | ? | FRS/GMRS | - |
+| Bottom | Radioddity DB-25 | 2M/440 | FRS/GMRS | [![PDF](/static/PDF_file_icon.svg){ width=25px }](https://s3.amazonaws.com/s3.image.ro/download/Manual/Radioddity/Radioddity%20%20DB25.pdf) |
 | Bottom | ICOM 718 | 10M-80M | Primary HF | [![PDF](/static/PDF_file_icon.svg){ width=25px }](/media/ico-ic-718.pdf) |
 | Bottom | Motorola ? | 800MHZ | [PSERN](https://psern.org/) | [![PDF](/static/PDF_file_icon.svg){ width=25px }](/media/Landmobile_IC-F9511S_T_InstructionManual.pdf) |
 | Bottom | ICOM 9511 | VHF | 100 Watt P25 | - |
