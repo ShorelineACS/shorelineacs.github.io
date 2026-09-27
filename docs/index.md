@@ -11,7 +11,7 @@ The Shoreline Auxiliary Communications Service team was formed in 1995 to suppor
 
 ## Contact Us On The Air
 
-### Our Callsign is [W7AUX](https://www.qrz.com/db/W7AUX)
+**Our Callsign is [W7AUX](https://www.qrz.com/db/W7AUX)**
 
 | Description | Connection Information |
 | --: | :--- |
