@@ -74,7 +74,7 @@ Our Callsign is [W7AUX](https://www.qrz.com/db/W7AUX).
 |Secondary Repeater | 440.300+ (103.5 PL)|
 |1.25m Repeater | 224.020- (103.5 PL)|
 |Simplex | 145.770 (103.5PL)|
-|Winlink RMS Packet Node | W7AUX-10 on 145.050 MHz|
+|~~Winlink RMS Packet Node~~ | ~~W7AUX-10 on 145.050 MHz~~|
 |Winlink RMS VARA Node | W7AUX-11 on 145.650 MHz|
 |Shoreline EOC Winlink Address | W7AUX|
 |Shoreline Fire/EM Comm Van Winlink Address |  W7AUX-9|
