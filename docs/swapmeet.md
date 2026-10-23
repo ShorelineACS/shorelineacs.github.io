@@ -99,10 +99,30 @@ hide:
 </div>
 
 ## About the Swap Meet
-_Description of the event to come._
+Shoreline ACS is hosting a one-day swap meet where local hams and electronics enthusiasts buy, sell, and trade gear. Come browse tables full of treasures like:
+
+- Handheld, mobile, and base radios, receivers, scanners, and CB gear
+- Antennas, coax, connectors, and towers
+- Test equipment: meters, scopes, and power supplies
+- Electronic parts, kits, and project boards for your next build
+- Tools, gadgets, and things you didn't know you needed
 
 !!! success "Your Purchase Supports Shoreline ACS"
     All door admission fees and purchases from the Shoreline ACS table go directly to support Shoreline ACS, a 501(c)(3) nonprofit organization.
+
+## Open to the Public
+
+<div class="swap-cta" markdown>
+
+### You don't need to be a ham!
+
+Everyone is welcome: tinkerers, makers, collectors, preppers, and the just plain curious. No license or radio experience required.
+
+<span class="swap-price">$5 suggested entry donation</span>
+
+**Payment:** Bring cash. Many sellers will also take mobile payment apps such as Venmo and Zelle. Shoreline ACS will accept cash, Venmo, Zelle, and similar mobile payment apps for admission and ACS table purchases.
+
+</div>
 
 ## Sellers
 
@@ -115,27 +135,6 @@ Turn it into something useful. **Donate it on-site to Shoreline ACS** (tax deduc
 <span class="swap-price">$10 donation per table</span>
 
 [Seller Details & Registration](swapmeet_sellers.md){ .swap-button }
-
-</div>
-
-## Open to the Public
-
-<div class="swap-cta" markdown>
-
-### You don't need to be a ham!
-
-Tinkerers, makers, collectors, preppers, and the just plain curious are all welcome. Come browse tables full of treasures like:
-
-- Vintage tube radios and classic receivers
-- Handheld and mobile radios, scanners, and CB gear
-- Antennas, coax, connectors, and towers
-- Test equipment: meters, scopes, and power supplies
-- Electronic parts, kits, and project boards for your next build
-- Tools, gadgets, and things you didn't know you needed
-
-<span class="swap-price">$5 suggested entry donation</span>
-
-**Payment:** Bring cash. Many sellers will also take mobile payment apps such as Venmo and Zelle. Shoreline ACS will accept cash, Venmo, Zelle, and similar mobile payment apps for admission and ACS table purchases.
 
 </div>
 
