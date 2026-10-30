@@ -91,7 +91,7 @@ hide:
 
 <div class="swap-facts">
   <div><strong>Date</strong>Saturday, December 5, 2026</div>
-  <div><strong>Time</strong>9:30 AM – 4:00 PM</div>
+  <div><strong>Time</strong>9:30 AM – 3:00 PM</div>
   <div><strong>Location</strong>Shoreline City Hall, Council Chambers</div>
   <div><strong>Admission</strong>$5 suggested donation</div>
   <div><strong>Seller Tables</strong>$10 donation per table</div>

@@ -52,7 +52,7 @@ hide:
 
     ---
 
-    Seller setup begins at 8:30 AM. Tables must be cleared by 4:30 PM.
+    Seller setup begins at 8:30 AM. Tables must be cleared by 3:30 PM.
 
     _Other setup instructions to come._
 
