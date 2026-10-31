@@ -122,6 +122,8 @@ Everyone is welcome: tinkerers, makers, collectors, preppers, and the just plain
 
 **Payment:** Bring cash. Many sellers will also take mobile payment apps such as Venmo and Zelle. Shoreline ACS will accept cash, Venmo, Zelle, and similar mobile payment apps for admission and ACS table purchases.
 
+**Refreshments:** Light snacks will be available for purchase.
+
 </div>
 
 ## Sellers
@@ -138,30 +140,6 @@ Turn it into something useful. **Donate it on-site to Shoreline ACS** (tax deduc
 
 </div>
 
-## Activities
-
-<div class="grid cards" markdown>
-
--   **License Testing**
-
-    ---
-
-    Still being decided. Check back for updates.
-
--   **Demonstrations**
-
-    ---
-
-    _Comm van tours, Winlink, etc._
-
--   **Food and Refreshments**
-
-    ---
-
-    Light snacks will be available for purchase.
-
-</div>
-
 ## Directions and Parking
 **Shoreline City Hall, Council Chambers**  
 [17500 Midvale Ave N, Shoreline, WA 98133](https://maps.google.com/?q=Shoreline+City+Hall,+17500+Midvale+Ave+N,+Shoreline,+WA+98133)
@@ -172,16 +150,12 @@ _Accessibility info to come._
 
 ## Rules and Policies
 
-!!! warning "Event Rules"
-    _Event rules, prohibited items, etc._
+!!! warning "Buyer Beware"
+    - **All sales are final.** Items are sold as-is, with no warranty or returns, unless the seller agrees otherwise. Any such arrangement is strictly between you and that seller.
+    - **Deal at your own risk.** The City of Shoreline and Shoreline ACS are not responsible for lost or stolen items, or for disputes between buyers and sellers.
 
 ## Sponsors
-_Sponsor acknowledgements._
-
-## Volunteers
-
-!!! tip "Help Out"
-    _How to help out on the day of the event._
+Thank you to the [City of Shoreline](https://www.shorelinewa.gov/) for its support and for hosting the swap meet at City Hall.
 
 ## Contact
-_Questions? Contact info to come._
+Questions? Email us at [shorelineacs@gmail.com](mailto:shorelineacs@gmail.com).

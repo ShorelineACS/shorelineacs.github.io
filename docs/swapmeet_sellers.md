@@ -62,6 +62,8 @@ hide:
 
     Be ready to accept cash. Checks are up to you. We also recommend accepting popular mobile payment apps such as Venmo and Zelle, since many buyers will be paying by phone.
 
+    **Shoreline ACS cannot accept payments on behalf of private sellers.** All sales are handled directly between you and the buyer.
+
 </div>
 
 ## Donating Gear
