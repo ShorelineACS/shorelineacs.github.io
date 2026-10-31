@@ -85,7 +85,6 @@ hide:
   <div>
     <h1>Ham Radio/Electronics Swap Meet</h1>
     <p class="swap-tagline">Hosted by the Shoreline Auxiliary Communications Service (W7AUX)</p>
-    <span class="swap-badge">DETAILS COMING SOON</span>
   </div>
 </div>
 
